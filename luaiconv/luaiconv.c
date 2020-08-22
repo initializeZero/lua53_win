@@ -27,6 +27,11 @@
  *
  */
 
+ /*
+ "utf8" can't be recognized by libiconv!
+ please use "utf-8"
+ */
+
 #include "luaiconv.h"
 #include <lua.h>
 #include <lauxlib.h>
