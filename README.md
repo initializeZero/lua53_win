@@ -16,6 +16,8 @@ lua-zlib
 
 lpeg
 
+iconv
+
 ### English Version
 
 This project builds lua53 runtime under Windows and common dependent libraries
@@ -33,3 +35,5 @@ luasocket
 lua-zlib
 
 lpeg
+
+iconv
